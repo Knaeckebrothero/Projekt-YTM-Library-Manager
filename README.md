@@ -1,6 +1,7 @@
-# Project Title
+# YouTube Music Library Manager Tool
 
-One Paragraph of project description goes here. Explain what the project is about, what it does, and the value it provides to users.
+This started of as a script for moving my YouTube music library from one account to another. <br>
+But then evolved into something more like a "Library Management Tool". <br>
 
 ## Table of Contents
 
