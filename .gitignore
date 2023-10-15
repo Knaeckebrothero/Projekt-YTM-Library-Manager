@@ -1,5 +1,7 @@
 # Development related test or config files from development folder
 development/*
+*.json
+client_secrets.json
 
 # Yaml config files
 *.yaml
